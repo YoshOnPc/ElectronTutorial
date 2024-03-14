@@ -1,0 +1,23 @@
+{
+  "name": "newbie-electron",
+  "version": "1.0.0",
+  "description": "Fiddle electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "Yosh",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoshOnPc/ElectronTutorial.git"
+  },
+  "author": "Yosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoshOnPc/ElectronTutorial/issues"
+  },
+  "homepage": "https://github.com/YoshOnPc/ElectronTutorial#readme",
+  "devDependencies": {
+    "electron": "^29.1.4"
+  }
+}
